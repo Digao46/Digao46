@@ -3,7 +3,7 @@
 - 🔭 Estou iniciando como Dev Front-End
 - 🌱 Cursando TADS na Uninove e Estudando por fora alguns Frameworks JS
 
-<div align="center">
+<div align="center" width="100%">
 
   <a href="https://github.com/digao46">
 
