@@ -2,7 +2,7 @@
 
 - 🔭 Estou iniciando como Dev Front-End
 - 🌱 Cursando TADS na Uninove e Estudando por fora alguns Frameworks JS
-- 📁 Aceese o meu portfólio: https://digao46.github.io/Portfolio/#home
+- 📁 Aceese o meu portfólio: https://digao46.github.io/Portfolio/
 
 <div align="center">
 
