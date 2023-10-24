@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diogo Melo
 
-- 🔭 Estou iniciando como Dev Front-End
-- 🌱 Cursando TADS na Uninove e Estudando por fora alguns Frameworks JS
+- 🔭 Estou a algum tempo atuando como Dev Back-End
+- 🌱 Cursando TADS na Uninove e Estudando por fora algumas ferramentas/linguagens como Docker, TS, JS, RabbitMQ 
 - 📁 Acesse o meu portfólio: https://digao46.github.io/Portfolio/
 
 <div align="center">
