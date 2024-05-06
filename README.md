@@ -18,7 +18,7 @@
   <img align="center" alt="Digao-RabbitMq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Digao-RabbitMq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Digao-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="right" alt="Digao-pic" height="150" style="border-radius:50px;" src="./avatar.png">
+  <img align="right" alt="Digao-pic" height="150" style="border-radius:50px;" src="./assets/imgs/avatar.png">
 </div>
   
 <div> 
