@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diogo Melo
 
 - 🔭 Estou desde abril/2023 atuando como Desenvolvedor Full Stack
-- 🌱 Formado em TADS na Uninove. Trabalho atualmente com a seguinte stack: AngularJS, Docker, ExpressJs, MongoDB, NestJs, PHP, PostgreSQL, RabbitMQ e Typescript.
+- 🌱 Formado em TADS na Uninove. Trabalho atualmente com a seguinte stack: AngularJS, Docker, ExpressJS, MongoDB, NestJS, PHP, PostgreSQL, RabbitMQ e Typescript.
 
 <div align="center">
   <a href="https://github.com/digao46">
